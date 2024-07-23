@@ -50,7 +50,6 @@ Passionate about embracing new technologies and always open to learning.
 
 ## Link Up with Me
 <a href="https://www.linkedin.com/in/mukul-tiwari-4b07b829a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://twitter.com/kammboz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a><br>
 <a href="https://www.instagram.com/mukultiwari03_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br/>
 
  #### Let's connect and create something awesome together!
